@@ -43,3 +43,17 @@ Group '/'
         Filters:  none
         FillValue:  0.000000
 ```
+
+The objects are numbered 1-10. Here's the lookup table
+```
+1. 'bear'
+2. 'elephant'
+3. 'person'
+4.  'car'
+5.  'dog'
+6.  'apple'
+7.  'chair'
+8.  'plane'
+9.  'bird'
+10.  'zebra'
+```
