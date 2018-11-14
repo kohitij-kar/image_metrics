@@ -8,8 +8,10 @@ https://www.dropbox.com/s/9syejz1wwbtcw31/dataset.h5?dl=1
 
 Once you download the dataset.h5 file, 
 please check it using matlab (python users can also use this file) in the following way.
-
+```
 >>h5disp('dataset.h5')
+```
+```
 HDF5 dataset.h5 
 Group '/' 
     Dataset 'i1' 
@@ -40,3 +42,4 @@ Group '/'
         ChunkSize:  []
         Filters:  none
         FillValue:  0.000000
+```
