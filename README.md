@@ -1,12 +1,16 @@
 
+## Associated publications
 ---
 This repository currently provides a link to some of the modelling constraints introduced in--
 
 Kar, K., Kubilius, J., Schmidt, K. M., Issa, E. B., & DiCarlo, J. J. (2018). Evidence that recurrent circuits are critical to the ventral stream's execution of core object recognition behavior. bioRxiv, 354753.
+
 --- 
+## Download the dataset 
 You can download the .h5 file from the location below:
 https://www.dropbox.com/s/9syejz1wwbtcw31/dataset.h5?dl=1
 
+## Access the main material from the file
 Once you download the dataset.h5 file, 
 please check it using matlab (python users can also use this file) in the following way.
 ```
