@@ -7,7 +7,7 @@ Kar, K., Kubilius, J., Schmidt, K. M., Issa, E. B., & DiCarlo, J. J. (2019). Evi
 --- 
 ## Download the dataset 
 You can download the .h5 file from the location below***:
-https://www.dropbox.com/s/9syejz1wwbtcw31/dataset.h5?dl=1
+[click here](https://www.dropbox.com/s/9syejz1wwbtcw31/dataset.h5?dl=1)
 
 *** please note that this file will be soon updated. 
 
