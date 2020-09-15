@@ -2,7 +2,7 @@
 ## Associated publications
 This repository currently provides a link to some of the modelling constraints introduced in--
 
-Kar, K., Kubilius, J., Schmidt, K. M., Issa, E. B., & DiCarlo, J. J. (2018). Evidence that recurrent circuits are critical to the ventral stream's execution of core object recognition behavior. bioRxiv, 354753.
+Kar, K., Kubilius, J., Schmidt, K. M., Issa, E. B., & DiCarlo, J. J. (2019). Evidence that recurrent circuits are critical to the ventral stream's execution of core object recognition behavior. [Nature Neuroscience](https://rdcu.be/bzuF9) .
 
 --- 
 ## Download the dataset 
